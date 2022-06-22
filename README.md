@@ -31,6 +31,10 @@
 &emsp;
 </p>
 
+<h3>Github Stats:</h3>
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=prutha-shouche)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
 
