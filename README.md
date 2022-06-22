@@ -1,9 +1,6 @@
 ### Hi there 👋
 
-<!-<img align="right" alt="GIF" src="https://github.com/arsentieva/arsentieva/blob/main/code.gif?raw=true" width="300" height="180" />
-
-<br>
-
+<!--<img align="right" alt="GIF" src="https://github.com/arsentieva/arsentieva/blob/main/code.gif?raw=true" width="300" height="180" />-->
 - 🎓 A Final year Grad Student at Arizona State University, Tempe, Arizona.
 - 💻 Software Developer.
 - 🌱 I’m currently learning Python, Machine Learning and Spring Boot.
