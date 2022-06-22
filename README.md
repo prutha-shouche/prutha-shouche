@@ -3,7 +3,7 @@
 
 - 🎓 A Final year Grad Student at Arizona State University, Tempe, Arizona.
 - 💻 Software Developer.
-- 🗠 [Learning Unlearning Everyday](https://leetcode.com/pruthashouche/)
+- 🗠  One [solution](https://leetcode.com/pruthashouche/) everyday!
 - 🌱 I’m currently learning Python, Machine Learning and Spring Boot.
 - 💬 Ask me about Stars, Art, Places and Books. 
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/prutha-shouche/), [Instagram](https://www.instagram.com/prutha_shouche/)
