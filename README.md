@@ -6,7 +6,7 @@
 <h2>About Me:</h2>
 
 
-- 🎓 A Final year Grad Student at Arizona State University, Tempe, Arizona.
+- 🎓 Final year Grad Student at Arizona State University majoring in Information Technology with Information System Management Specialization, Tempe, Arizona.
 - 💻 Software Developer. 
 - 🗠  Big Data and Machine Learning Enthusiast. 
 - 🌱 I’m currently learning Python, Machine Learning and Spring Boot.
