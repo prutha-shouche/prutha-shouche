@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<img align="right" alt="GIF" src="https://github.com/arsentieva/arsentieva/blob/main/code.gif?raw=true" width="300" height="120" />
+<!-<img align="right" alt="GIF" src="https://github.com/arsentieva/arsentieva/blob/main/code.gif?raw=true" width="300" height="180" />
 
 <br>
 
