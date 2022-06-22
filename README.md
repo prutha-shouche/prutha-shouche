@@ -50,13 +50,14 @@
 <img align="left" alt="AdobeIllustrator" width="26px" src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" />
 <br />
 
-
+<br/>
+<br/>
 
 <h2>Github Stats:</h2>
 
 ![Prutha's GitHub stats](https://github-readme-stats.vercel.app/api?username=prutha-shouche&show_icons=true&theme=radical)
 
-
+<br/>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=prutha-shouche&layout=compact&theme=radical)]
 
