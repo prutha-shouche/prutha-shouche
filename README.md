@@ -4,7 +4,7 @@
 
 <!--<img align="right" alt="GIF" src="https://github.com/arsentieva/arsentieva/blob/main/code.gif?raw=true" width="500" height="320" />-->
 <h2>About Me:</h2>
-<br>
+<br/>
 - 🎓 A Final year Grad Student at Arizona State University, Tempe, Arizona.
 - 💻 Software Developer.
 - 🌱 I’m currently learning Python, Machine Learning and Spring Boot.
@@ -12,10 +12,13 @@
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/prutha-shouche/), [Instagram](https://www.instagram.com/prutha_shouche/)
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: I can listen to songs all day, everyday and speak 4 Languages - English, Hindi, Marathi, Gujarati
-<br>
+
+
+
+<br/>
 
 <p>
-<h3>Connect with me on </h3>
+<h3>Connect with me on:</h3>
 <a target="_blank" href="https://www.linkedin.com/in/prutha-shouche/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"></img></a>
 &emsp;
 <a target="_blank" href="mailto:pruthashouche@gmail.com"
