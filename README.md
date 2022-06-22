@@ -1,7 +1,6 @@
 ### Hello Fam! 👋
 <!--[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=25&color=8C8C8C&center=true&lines=Hi+there%2C+I+am+Prutha+Shouche;Software+Developer;Freelance+Illustrator)](https://git.io/typing-svg)-->
-<!--[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=25&color=50EAFF&center=true&lines=Hi+there%2C+I+am+Prutha+Shouche;Software+Developer;Freelance+Illustrator)](https://git.io/typing-svg)-->
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=25&color=7D30CE&center=true&lines=Hi+there%2C+I+am+Prutha+Shouche;Software+Developer;Freelance+Illustrator)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=25&color=50EAFF&center=true&lines=Hi+there%2C+I+am+Prutha+Shouche;Software+Developer;Freelance+Illustrator)](https://git.io/typing-svg)
 
 <!--<img align="right" alt="GIF" src="https://github.com/arsentieva/arsentieva/blob/main/code.gif?raw=true" width="500" height="320" />-->
 <h2>About Me:</h2>
@@ -33,7 +32,7 @@
 
 <h2>Github Stats:</h2>
 
-![Prutha's GitHub stats](https://github-readme-stats.vercel.app/api?username=prutha-shouche&show_icons=true&theme=tokyonight)
+![Prutha's GitHub stats](https://github-readme-stats.vercel.app/api?username=prutha-shouche&show_icons=true&theme=radical)
 
 
 
