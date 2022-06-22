@@ -7,7 +7,7 @@
 
 
 - 🎓 A Final year Grad Student at Arizona State University, Tempe, Arizona.
-- 💻 Software Developer.
+- 💻 Software Developer. Big Data and Machine Learning Enthusiast. 
 - 🌱 I’m currently learning Python, Machine Learning and Spring Boot.
 - 💬 Ask me about Stars, Art, Places and Books. 
 - 😄 Pronouns: She/Her
