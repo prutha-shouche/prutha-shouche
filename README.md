@@ -32,7 +32,7 @@
 
 <h2>Github Stats:</h2>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=prutha-shouche)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?prutha-shouche=anuraghazra&show_icons=true&theme=radical)
 
 
 
