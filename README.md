@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello Fam! 👋
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=25&color=8C8C8C&center=true&lines=Hi+there%2C+I+am+Prutha+Shouche;Software+Developer;Freelance+Illustrator)](https://git.io/typing-svg)
 
 <!--<img align="right" alt="GIF" src="https://github.com/arsentieva/arsentieva/blob/main/code.gif?raw=true" width="500" height="320" />-->
