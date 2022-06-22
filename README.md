@@ -12,7 +12,7 @@
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/prutha-shouche/), [Instagram](https://www.instagram.com/prutha_shouche/)
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: I can listen to songs all day, everyday and speak 4 Languages - English, Hindi, Marathi, Gujarati
-
+<br><br>
 <h3>Connect with me on </h3>
 <br>
 <a target="_blank" href="https://www.linkedin.com/in/prutha-shouche/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"></img></a>
@@ -24,8 +24,7 @@
 &emsp;
 <a target="_blank" href="https://leetcode.com/pruthashouche/"><img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black"></img></a>
 &emsp;
-<a target="_blank" href="https://auth.geeksforgeeks.org/user/its_just_me/profile"><img src="https://img.shields.io/badge/-geeksforgeeks-11111?style=for-the-badge&logo=geeksforgeeks&logoColor=black"></img></a>
-&emsp;
+
 
 
 
