@@ -59,7 +59,7 @@
 ![Prutha's GitHub stats](https://github-readme-stats.vercel.app/api?username=prutha-shouche&show_icons=true&theme=radical)
 
 <br/>
-
+<br/>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=prutha-shouche&layout=compact&theme=radical)
 
 
