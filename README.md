@@ -11,7 +11,7 @@
 - 💻 Software Developer. 
 - 🗠  Big Data and Machine Learning Enthusiast. 
 - 🌱 I’m currently learning Python, Machine Learning and Spring Boot.
-- 💬 Ask me about Stars, Art, Places and Books. 
+- ❤️ Love stargazing, sunsets, pretty clouds and exploring new places. 
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: I can listen to songs all day, everyday and speak 4 Languages - English, Hindi, Marathi, Gujarati
 
