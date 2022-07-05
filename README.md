@@ -30,7 +30,11 @@
 &emsp;
 <a target="_blank" href="https://dribbble.com/Shouche"><img src="https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white"></img></a>
 &emsp; 
+
+<a target="_blank" href="https://public.tableau.com/app/profile/prutha.shouche"><img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white"></img></a>
+&emsp; 
 </p>
+
 
 <br/>
 <br/>
