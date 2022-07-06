@@ -72,6 +72,6 @@
 
 
 
-<!--<p align="center"> 
+<p align="left"> 
 	<img src="https://komarev.com/ghpvc/?username=prutha-shouche&label=Profile%20views&color=0e75b6&style=plastic" alt="prutha" /> 
-</p>-->
+</p>
