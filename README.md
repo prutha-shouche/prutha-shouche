@@ -75,6 +75,7 @@
 
 <br/>
 <br/>
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=prutha-shouche&layout=compact&theme=radical)
 
 <br/><br/>
