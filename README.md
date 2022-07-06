@@ -70,6 +70,8 @@
 
 <br/>-->
 
+![𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://activity-graph.herokuapp.com/graph?username=prutha-shouche&theme=react-dark&hide_border=true&area=true)
+
 <br/>
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prutha-shouche&layout=compact&theme=radical">|<img src="https://github-readme-streak-stats.herokuapp.com/?user=prutha-shouche&theme=radical"/>
