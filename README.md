@@ -70,10 +70,14 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=prutha-shouche&layout=compact&theme=radical)-->
 
 
-<img src="https://github-readme-stats.vercel.app/api?username=prutha-shouche&&show_icons=true&count_private=true&theme=radical">|<img src="https://github-readme-streak-stats.herokuapp.com/?user=prutha-shouche&theme=blueberry_duo"/>
+<img src="https://github-readme-stats.vercel.app/api?username=prutha-shouche&&show_icons=true&count_private=true&theme=radical">|<img src="https://github-readme-streak-stats.herokuapp.com/?user=prutha-shouche&theme=radical"/>
 |---|---|
 
+<br/>
+<br/>
+[Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=prutha-shouche&layout=compact&theme=radical)
 
+<br/><br/>
 
 <p align="left"> 
 	<img src="https://komarev.com/ghpvc/?username=prutha-shouche&label=Profile%20views&color=0e75b6&style=plastic" alt="prutha" /> 
