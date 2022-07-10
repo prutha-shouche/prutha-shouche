@@ -60,6 +60,13 @@
 <br/>
 <br/>
 
+<h2>Certifications: </h2>
+![google-data-analytics-certificate 2](https://user-images.githubusercontent.com/106730796/178150922-c33b6d56-1a49-4acd-941d-d44e76b0221c.png)
+
+
+
+
+
 <h2>Github Stats:</h2>
 
 ![Prutha's GitHub stats](https://github-readme-stats.vercel.app/api?username=prutha-shouche&show_icons=true&theme=radical)
@@ -81,6 +88,8 @@
 <br/>
 
 
+
 <p align="left"> 
 	<img src="https://komarev.com/ghpvc/?username=prutha-shouche&label=Profile%20views&color=0e75b6&style=plastic" alt="prutha" /> 
 </p>
+
