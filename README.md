@@ -61,9 +61,11 @@
 <br/>
 
 <h2>Certifications: </h2>
-![google-data-analytics-certificate 2](https://user-images.githubusercontent.com/106730796/178150922-c33b6d56-1a49-4acd-941d-d44e76b0221c.png)
 
+<a href="https://www.credly.com/badges/1ab26f03-327b-4520-aaf3-2a8e7aabc882?source=linked_in_profile"><img src="https://user-images.githubusercontent.com/106730796/178150922-c33b6d56-1a49-4acd-941d-d44e76b0221c.png" alt="Google Data Analytics" 
+												title="Google Data Analytics" width="100"></a>
 
+<br>
 
 
 
