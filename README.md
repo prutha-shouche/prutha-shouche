@@ -1,5 +1,5 @@
 ### Hello Fam! 👋
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=25&color=8C8C8C&center=true&lines=Hi+there%2C+I+am+Prutha+Shouche;Software+Developer;Freelance+Illustrator)](https://git.io/typing-svg)
+<!--[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=25&color=8C8C8C&center=true&lines=Hi+there%2C+I+am+Prutha+Shouche;Software+Developer;Freelance+Illustrator)](https://git.io/typing-svg)-->
 <!--[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=25&color=50EAFF&center=true&lines=Hi+there%2C+I+am+Prutha+Shouche;Software+Developer;Freelance+Illustrator)](https://git.io/typing-svg)-->
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=25&color=57EAFF&center=true&lines=Hi+there%2C+I+am+Prutha+Shouche;Software+Developer;Big+Data+%26+ML+Enthusiast;Freelance+Illustrator)](https://git.io/typing-svg)
 
