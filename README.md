@@ -17,7 +17,7 @@
 
 
 
-<h2>Certifications & Badges: </h2>
+<h2>Certifications : </h2>
 
 <a href="https://coursera.org/share/db05a520fb45a309705418dafe324558">Google Data Analytics Certificate</a><br>
 <a href="https://www.credly.com/badges/1ab26f03-327b-4520-aaf3-2a8e7aabc882?source=linked_in_profile"><img src="https://user-images.githubusercontent.com/106730796/178150922-c33b6d56-1a49-4acd-941d-d44e76b0221c.png" alt="Google Data Analytics" title="Google Data Analytics" width="150"></a>
