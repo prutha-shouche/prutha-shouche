@@ -8,9 +8,7 @@
 
 
 - 🎓 Final year Grad Student at Arizona State University majoring in Information Technology with Information System Management Specialization, Tempe, Arizona.
-- 💻 Software Developer. 
 - 🗠  Big Data and Machine Learning Enthusiast. 
-- 🌱 I’m currently learning Machine Learning and Spring Boot.
 - ❤️ Love stargazing, sunsets, pretty clouds and exploring new places. 
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: I can listen to songs all day, everyday and speak 4 Languages - English, Hindi, Marathi, Gujarati
