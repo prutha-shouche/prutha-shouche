@@ -19,8 +19,8 @@
 
 <h2>Badges : </h2>
 
-<a href="https://www.credly.com/badges/1ab26f03-327b-4520-aaf3-2a8e7aabc882?source=linked_in_profile"><img src="https://user-images.githubusercontent.com/106730796/178150922-c33b6d56-1a49-4acd-941d-d44e76b0221c.png" alt="Google Data Analytics" title="Google Data Analytics" width="150"></a>
-<a href="https://www.credly.com/badges/1fa945c3-b7fc-4bed-bd52-d29684897173/public_url"><img src="https://github.com/prutha-shouche/prutha-shouche/assets/106730796/affa8427-efad-4540-8335-f69847345143" alt="Google Data Analytics" title="Google Data Analytics" width="150"></a>
+<a href="https://www.credly.com/badges/1ab26f03-327b-4520-aaf3-2a8e7aabc882?source=linked_in_profile"><img src="https://user-images.githubusercontent.com/106730796/178150922-c33b6d56-1a49-4acd-941d-d44e76b0221c.png" alt="Google Data Analytics" title="Google Data Analytics" width="120"></a>
+<a href="https://www.credly.com/badges/1fa945c3-b7fc-4bed-bd52-d29684897173/public_url"><img src="https://github.com/prutha-shouche/prutha-shouche/assets/106730796/affa8427-efad-4540-8335-f69847345143" alt="Google Data Analytics" title="Google Data Analytics" width="120"></a>
 
 <p>
 <h2>Connect with Me on: </h2>
